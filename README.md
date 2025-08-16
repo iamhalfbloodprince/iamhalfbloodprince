@@ -4,23 +4,23 @@
 
 ![Masterhead](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=300&section=header&text=Ans%20Ali&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Visionary%20%7C%20AI%20Strategist%20%7C%20Digital%20Innovation%20Leader&descAlignY=58&descSize=22)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=13%2B+Years+Engineering+Digital+Excellence;Cybersecurity+%E2%9A%A1+AI+%E2%9A%A1+Cloud+Architecture;Transforming+Ideas+into+Bulletproof+Solutions;Building+the+Future%2C+One+Algorithm+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=13%2B+Years+Engineering+Digital+Excellence;Cybersecurity+%E2%9A%A1+AI+%E2%9A%A1+Cloud+Architecture;Transforming+Ideas+into+Bulletproof+Solutions;Building+the+Future%2C+One+Algorithm+at+a+Time)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:ans.ali@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=8B89CC"/>
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/ansali">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/ansali">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://medium.com/@ansali">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E"/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="https://dev.to/ansali">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A"/>
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
 </p>
 
@@ -473,205 +473,3 @@ timeline
     2023-2025 : Chief Security Officer
               : Global security strategy
               : Thought leadership
-```
-
-<img width="100%" src="https://github.com/AnsAli/AnsAli/blob/main/assets/divider.gif"/>
-
-## 🏆 Ventures, Awards & Recognition
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 **Entrepreneurial Ventures**
-
-#### **SecureAI Labs** | *Co-founder & CTO*
-*2020 - Present*
-- 🎯 AI-driven cybersecurity solutions
-- 💼 $5M+ ARR within 3 years
-- 🌐 Serving Fortune 500 clients
-- 🏆 "Best AI Security Startup 2023"
-
-#### **CyberGuard Consulting** | *Founder & CEO*
-*2018 - Present*
-- 🛡️ Boutique security consulting firm
-- 👥 25+ expert consultants
-- 🌍 Global client base across 15 countries
-- 📈 98% client retention rate
-
-#### **TechAlchemy Academy** | *Creator & Lead Instructor*
-*2019 - Present*
-- 🎓 Cybersecurity education platform
-- 👨‍🎓 10,000+ students trained
-- 🌟 4.9/5 average rating
-- 💡 Industry-leading curriculum
-
-</td>
-<td width="50%">
-
-### 🎖️ **Certifications & Awards**
-
-#### **Professional Certifications**
-![CISSP](https://img.shields.io/badge/CISSP-0052CC?style=flat-square&logo=isc2&logoColor=white)
-![CISM](https://img.shields.io/badge/CISM-FF0000?style=flat-square&logo=isaca&logoColor=white)
-![CEH](https://img.shields.io/badge/CEH-000000?style=flat-square&logo=eccouncil&logoColor=white)
-![OSCP](https://img.shields.io/badge/OSCP-FF6B35?style=flat-square&logo=offensive-security&logoColor=white)
-![SABSA](https://img.shields.io/badge/SABSA-1E88E5?style=flat-square&logo=sabsa&logoColor=white)
-
-#### **Cloud Certifications**
-![AWS Solutions Architect](https://img.shields.io/badge/AWS_SA_Professional-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Security](https://img.shields.io/badge/AWS_Security_Specialty-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure Expert](https://img.shields.io/badge/Azure_Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP Professional](https://img.shields.io/badge/GCP_Professional-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-#### **Recent Awards**
-- 🏆 **"Cybersecurity Leader of the Year"** - InfoSec Awards 2024
-- 🌟 **"Top 40 Under 40"** - CyberTech Magazine 2023
-- 🎯 **"Innovation Excellence"** - RSA Conference 2023
-- 🛡️ **"Ethical Hacker Hall of Fame"** - HackerOne 2022
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://github.com/AnsAli/AnsAli/blob/main/assets/divider.gif"/>
-
-## 📊 Advanced GitHub Metrics
-
-<div align="center">
-
-### 🔥 Contribution Heatmap
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ansali&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true)
-
-### 🏆 Achievement Showcase
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansali&theme=github_dark" alt="Profile Summary"/>
-
-<table>
-<tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ansali&theme=github_dark" alt="Repos per Language"/>
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ansali&theme=github_dark" alt="Most Commit Language"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ansali&theme=github_dark" alt="Stats"/>
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ansali&theme=github_dark&utcOffset=5" alt="Productive Time"/>
-</td>
-</tr>
-</table>
-
-### 🐍 Contribution Snake Animation
-![Snake animation](https://raw.githubusercontent.com/ansali/ansali/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<img width="100%" src="https://github.com/AnsAli/AnsAli/blob/main/assets/divider.gif"/>
-
-## 🤝 Let's Build the Future Together
-
-<div align="center">
-
-### 💫 **Ready to Transform Your Digital Landscape?**
-
-Whether you need a comprehensive security audit, AI strategy consultation, or a battle-tested technical leader for your next venture, I'm here to turn your most complex challenges into strategic competitive advantages.
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-#### 🛡️ **Security Consultation**
-*Comprehensive security assessments, penetration testing, and strategic security roadmap development*
-
-[![Security Services](https://img.shields.io/badge/Security_Services-FF0000?style=for-the-badge&logo=shield&logoColor=white)](mailto:ans.ali@protonmail.com?subject=Security%20Consultation%20Inquiry)
-
-</td>
-<td align="center" width="33%">
-
-#### 🤖 **AI Strategy & Implementation**
-*AI/ML strategy development, model deployment, and ethical AI governance frameworks*
-
-[![AI Services](https://img.shields.io/badge/AI_Services-412991?style=for-the-badge&logo=openai&logoColor=white)](mailto:ans.ali@protonmail.com?subject=AI%20Strategy%20Inquiry)
-
-</td>
-<td align="center" width="33%">
-
-#### 🚀 **Technical Leadership**
-*CTO advisory, team building, product strategy, and digital transformation leadership*
-
-[![Leadership Services](https://img.shields.io/badge/Leadership_Services-10B981?style=for-the-badge&logo=rocket&logoColor=white)](mailto:ans.ali@protonmail.com?subject=Technical%20Leadership%20Inquiry)
-
-</td>
-</tr>
-</table>
-
-### 📞 **Multiple Ways to Connect**
-
-<p align="center">
-  <a href="mailto:ans.ali@protonmail.com">
-    <img src="https://img.shields.io/badge/📧_Email_Me-8B89CC?style=for-the-badge&logoColor=white&labelColor=8B89CC"/>
-  </a>
-  <a href="https://calendly.com/ansali/consultation">
-    <img src="https://img.shields.io/badge/📅_Schedule_Call-006BFF?style=for-the-badge&logoColor=white&labelColor=006BFF"/>
-  </a>
-  <a href="https://linkedin.com/in/ansali">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white&labelColor=0077B5"/>
-  </a>
-  <a href="https://twitter.com/ansali">
-    <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logoColor=white&labelColor=1DA1F2"/>
-  </a>
-  <a href="https://ansali.dev">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white&labelColor=FF6B6B"/>
-  </a>
-</p>
-
-### 🌟 **What Sets Me Apart**
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/13%2B_Years-Experience-blue?style=flat-square&logo=calendar"/>
-<br/>**Battle-tested expertise across multiple domains**
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/500%2B-Clients_Secured-green?style=flat-square&logo=shield"/>
-<br/>**Proven track record of enterprise success**
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Zero-Security_Breaches-red?style=flat-square&logo=security"/>
-<br/>**Perfect security track record maintained**
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/AI%2BSecurity-Innovation_Leader-purple?style=flat-square&logo=brain"/>
-<br/>**Pioneer in AI-powered cybersecurity**
-</td>
-</tr>
-</table>
-
-### 💭 **Client Testimonials**
-
-> *"Ans transformed our security posture from reactive to proactive. His AI-driven approach reduced our incident response time by 90%."*  
-> **— Sarah Johnson, CISO at TechCorp**
-
-> *"The most knowledgeable cybersecurity expert I've worked with. Ans doesn't just find problems—he architects solutions."*  
-> **— Michael Chen, CEO at FinSecure**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ansali&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/ansali?color=blue&style=for-the-badge&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/ansali?color=yellow&style=for-the-badge&logo=github" alt="Total Stars"/>
-
-### 🌌 *"In the confluence of security and intelligence, tomorrow's digital foundations are forged today."* ⚡
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=100&section=footer"/>
-
-</div>
